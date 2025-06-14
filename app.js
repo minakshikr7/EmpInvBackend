@@ -14,8 +14,8 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
   "https://empinvbackend.onrender.com", // backend (optional)
-  "https://emp-inv-frontend1.vercel.app/" ,
-  "https://emp-inv-frontend2.vercel.app/"
+  "https://emp-inv-frontend1.vercel.app" ,
+  "https://emp-inv-frontend2.vercel.app"
 ];
 
 app.use(cors({
